@@ -1,0 +1,18 @@
+// Here you can add other styles
+.card {
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12);
+  border: 0;
+  .card-header {
+    width: 90%;
+    background-color: #FFF;
+    margin-left: 5%;
+  }
+}
+
+
+.btn-primary {
+  color: #fff;
+  background-color: #0059aa;
+  border-color: #0059aa;
+  border-radius: 2px;
+}

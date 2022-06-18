@@ -1,0 +1,6 @@
+{
+  "name": "GroupApi",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./GroupApi.js"
+}
